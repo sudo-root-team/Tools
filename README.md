@@ -5,27 +5,27 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 ![alt tag](http://i.imgur.com/gHnY5bk.jpg)
 
 # Web:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Pwn:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Reverse:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Crypto:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Forensics:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Network:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Stegano:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Misc:<br>
-TOOLNAME - LINK<br>
+- [TOOLNAME](LINK) - Short Description
 
 # Made With ♥ for CTF Enthusiasts by Sudo_root.
