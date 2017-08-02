@@ -1,6 +1,5 @@
 # Capture the Flag Tools:
-## Sudo_root [CTFTime] - https://ctftime.org/team/16812<br>
-https://www.facebook.com/sud0r00t/<br>
+## Sudo_root --> https://www.facebook.com/sud0r00t/<br>
 A list of Capture the Flag Tools. Collected by Sudo_root CTF Team!<br>
 Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 ![alt tag](http://i.imgur.com/gHnY5bk.jpg)
