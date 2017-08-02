@@ -11,7 +11,7 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 - [TOOLNAME](LINK) - Short Description
 
 # Reverse:<br>
-- [pintool](https://github.com/wagiro/pintool){:target="_blank"} - Crack password using instruction counter
+- [pintool](https://github.com/wagiro/pintool) - Crack password using instruction counter
 
 # Crypto:<br>
 - [TOOLNAME](LINK) - Short Description
@@ -20,7 +20,7 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 - [TOOLNAME](LINK) - Short Description
 
 # Network:<br>
-- [netattack](https://github.com/chrizator/netattack){:target="_blank"} - Python script to scan and attack wireless networks
+- [netattack](https://github.com/chrizator/netattack) - Python script to scan and attack wireless networks
 
 # Stegano:<br>
 - [TOOLNAME](LINK) - Short Description
