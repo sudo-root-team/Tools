@@ -18,6 +18,7 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 - [peda](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
 - [pintool](https://github.com/wagiro/pintool) - Crack password using instruction counter.
 - [radare2](https://github.com/radare/radare2) - UNIX-like reverse engineering framework and commandline tools.
+- [IDA](https://www.hex-rays.com/products/ida/index.shtml) - It's a hosted multi-processor disassembler and debugger.
 
 # Crypto:<br>
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
@@ -29,6 +30,8 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 
 # Network:<br>
 - [netattack](https://github.com/chrizator/netattack) - Python script to scan and attack wireless networks.
+- [Wireshark](https://www.wireshark.org/) - Network traffic analyzer & sniffer.
+- [TCPDump](http://www.tcpdump.org/) - Powerful command-line network packet analyzer.
 
 # Stegano:<br>
 - [TOOLNAME](LINK) - Short Description
