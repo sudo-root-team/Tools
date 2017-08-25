@@ -34,9 +34,9 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 - [TCPDump](http://www.tcpdump.org/) - Powerful command-line network packet analyzer.
 
 # Stegano:<br>
-- [TOOLNAME](LINK) - Short Description
+- [StegHide](http://steghide.sourceforge.net/) - Simple program that is able to hide and unhide data in images & audios.
 
 # Misc:<br>
-- [TOOLNAME](LINK) - Short Description
+- [BinaryHexDecimal Converter](http://www.binaryhexconverter.com/) - Online Binary, Hex & Decimal Converter.
 
 # Made With ♥ for CTF Enthusiasts by Sudo_root.
