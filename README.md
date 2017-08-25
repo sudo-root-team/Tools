@@ -7,6 +7,8 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 # Web:<br>
 - [Burp Suite](https://portswigger.net/burp/) - Burp Suite is a graphical tool for testing Web application security.
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax.
+- [Nikto](https://github.com/sullo/nikto) - Nikto is a CLI Web Server Security Scanner.
+- [Dirb](http://dirb.sourceforge.net/) - DIRB is a Web Content Scanner. It looks for existing (and/or hidden) Web Objects. 
 
 # Pwn:<br>
 - [checksec](https://github.com/slimm609/checksec.sh) - Checksec is a bash script to check the properties of executables (like PIE, RELRO, PaX, Canaries, ASLR, Fortify Source).
