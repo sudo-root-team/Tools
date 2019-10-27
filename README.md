@@ -17,6 +17,7 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 
 # Reverse:<br>
 - [gdb](https://www.gnu.org/software/gdb/) - GNU Debugger.
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework
 - [peda](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
 - [pintool](https://github.com/wagiro/pintool) - Crack password using instruction counter.
 - [radare2](https://github.com/radare/radare2) - UNIX-like reverse engineering framework and commandline tools.
@@ -32,6 +33,7 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 
 # Network:<br>
 - [netattack](https://github.com/chrizator/netattack) - Python script to scan and attack wireless networks.
+- [network-miner](https://www.netresec.com/?page=Networkminer) - Network Forensic Analysis Tool.
 - [Wireshark](https://www.wireshark.org/) - Network traffic analyzer & sniffer.
 - [TCPDump](http://www.tcpdump.org/) - Powerful command-line network packet analyzer.
 
